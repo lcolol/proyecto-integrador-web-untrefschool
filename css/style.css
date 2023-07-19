@@ -1,6 +1,13 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+/*
+@import url('https://fonts.googleapis.com/css2?family=Belanosima&family=Poppins&family=Roboto&display=swap');
+*/
 
 * {
   margin: 0px;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Poppins', sans-serif;
+  /*
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Belanosima', sans-serif;
+  */
 }
