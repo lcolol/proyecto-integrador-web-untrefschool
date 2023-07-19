@@ -11,3 +11,43 @@
   font-family: 'Belanosima', sans-serif;
   */
 }
+
+body {
+  background-color: #EFF5F5;
+}
+
+nav {
+  background-color: #181823;
+}
+
+footer {
+  background-color: #00425A;
+}
+
+h1 {
+  color: #FC7300;
+  font-weight: 900;
+}
+
+h2 {
+  color: #1F8A70;
+  font-weight: 600;
+}
+
+h4 {
+  color: #FC7300;
+}
+
+h5 {
+  color: #EFF5F5;
+  font-weight: 600;
+  text-align: center;
+}
+
+/* Colores
+#FC7300
+#1F8A70
+#00425A
+#181823
+#EFF5F5
+*/
